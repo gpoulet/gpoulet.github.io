@@ -240,7 +240,7 @@ code {
   padding: 0 20px;
 }
 .container-inner {
-  max-width: 1120px;
+  max-width: 1950px;
   min-width: 320px;
   width: 100%;
   margin: 0 auto;
@@ -1640,6 +1640,7 @@ i.icon:before {
 .highlight .code .selector-tag,
 .highlight .code .deletion {
   color: #cc7832;
+  font-weight: 700;
 }
 .highlight .code .variable,
 .highlight .code .template-variable,
